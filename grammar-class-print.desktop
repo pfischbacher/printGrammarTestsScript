@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Grammar Class Print Outs
+Icon=application-x-executable
+Exec=gnome-terminal -e "bash -c '[DIRECTORY]/printTests.sh;$SHELL'"
+Categories=Application;
+GenericName[en_US.UTF-8]=For printing out grammar class sheets
